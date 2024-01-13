@@ -1,0 +1,85 @@
+---
+title: "Ilya Fominykh"
+about:
+  id: hero-heading
+  template: jolla
+  image: me.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Corzina
+    - icon: share
+      text: Orcid
+      href: https://orcid.org/0000-0002-5107-3571
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::: {#hero-heading}
+My name is Ilya Fominykh, and I am a Research Assistant at Utrecht
+University. My scientific interests include, but are not limited to,
+quantitative methodology in the social sciences, Bayesian statistics,
+survey and digital trace data analysis, electoral and regime transition
+studies. I actively participate in a wide range of research projects
+aligned with my interests. Currently, I lead a research group studying
+technological illiberalism. I am also involved in projects focused on Bayesian approaches in exploratory factor analysis and the new wave of [Democratic
+backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding).
+
+## Education
+
+**UTRECHT UNIVERSITY** \| Master in Methodology and Statistics for the
+Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
+Science* \| 2022-ongoing
+
+**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
+\| *Track: Political Analysis* \| 2018-2022
+
+## Experience
+
+**DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
+Sep 2023 - Ongoing \| Utrecht University
+
+I Explored packages for Bayesian exploratory factor analysis currently
+available in R and prepared a framework for a simulation study.
+Participating in writing an article on this topic.
+
+**SUMMER SCHOOL "SURVEY DESIGN: ANALYSIS AND ESTIMATION"** \| Teaching
+Assistant \| *Aug 2023* \| Utrecht University
+
+I helped summer school students to understand foundations of
+survey-based research & master basic R usage for survey data analysis.
+
+**HOLDING "MINCHENKO CONSULTING"** \| Junior Analyst \| *Jul 2020 - Feb
+2022* \| Analytic Department
+
+I Analysed data on Russian first-range officials spouses in social and
+traditional media and developed description of self-representation
+strategies. Published an article in Scopus Q2 journal.
+
+**RONALD F. INGLEHART LABORATORY FOR COMPARATIVE SOCIAL RESEARCH** \|
+Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of
+Economics
+
+I Looked for appropriate indicators, did data wrangling and translated
+articles. As a main project, conducted replication study of Uslaner's
+"Inequality trap".
+
+**DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct
+2020 - Jun 2021* \| Higher School of Economics
+
+I checked the control papers of first-year students, conducted
+consultations on basic R, LaTeX and probability theory topics.
+
+## Publications
+
+Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the
+Opposition under Electoral Authoritarianism: The Case of the Russian
+Regional Parliamentary Elections in 2021. Russian Politics, 8(4),
+519-549.
+
+Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and
+Their Self-Representation Strategies: Celebrities or Housewives?
+Monitoring of Public Opinion: Economic and Social Changes, (5),
+138--162. (In Russ.)
+:::
