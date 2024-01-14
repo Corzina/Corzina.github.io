@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "markupsite2023"
+  title: "Developer Portfolio"
   navbar:
     left:
       - href: index.qmd
