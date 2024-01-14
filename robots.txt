@@ -1,1 +1,1 @@
-Sitemap: https://Corzina.github.io/markupsite2023/sitemap.xml
+Sitemap: https://github.com/Corzina/markupsite2023/sitemap.xml
