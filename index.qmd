@@ -74,11 +74,17 @@ Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-
 ## Skills
 
 • R (packages: tidyverse, brms, lavaan, semTools, mice, ggplot2)
+
 • Python (packages: pandas, numpy, matplotlib, scikit-learn)
+
 • Microsoft Office (Word, Excel, PowerPoint)
+
 • LaTeX
+
 • SQL
+
 • SPSS
+
 • MPLUS
 
 ## Achievements
