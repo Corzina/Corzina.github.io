@@ -1,0 +1,23 @@
+---
+title: "My Projects"
+---
+
+## Methodology and Statistics
+
+**COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-ongoing
+
+I explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. Now I am participating in writing an article on this topic.
+
+**COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project * | 2023-ongoing
+
+I am working on my thesis on combining digital trace data and survey data for participation prediction, which is intended to increase response rate and reduce costs of survey data collection.
+
+## Political Science
+
+**STRATEGIES OF PARLIAMENTARY PARTIES** |  *Research Project * | 2021 - 2022
+
+I analyzed the new trends of centralized autocratic party creation on data from Russian 2021 elections. Paper on it is available in  *Russian Politics * journal.
+
+**COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
+
+I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the  *Laboratory for Regional Research *, HSE.

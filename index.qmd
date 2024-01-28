@@ -17,73 +17,69 @@ editor:
 ---
 
 ::: {#hero-heading}
-My name is Ilya Fominykh, and I am a Research Assistant at Utrecht
-University. My scientific interests include, but are not limited to,
-quantitative methodology in the social sciences, Bayesian statistics,
-survey and digital trace data analysis, electoral and regime transition
-studies. I actively participate in a wide range of research projects
-aligned with my interests. Currently, I lead a research group studying
-technological illiberalism. I am also involved in projects focused on
-Bayesian approaches in exploratory factor analysis and the new wave of
-[Democratic
-backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding).
+
+Greetings! I'm Ilya Fominykh, a Research Assistant at Utrecht University with a strong passion for quantitative methodology in the social sciences, Bayesian statistics, and survey data analysis. My research interests encompass a diverse range of topics, including electoral dynamics, regime transitions, and more.
+
+I'm actively engaged in numerous research projects that align with my expertise. Currently, I'm a dedicated member of a research group investigating technological illiberalism and the contemporary challenges associated with [democratic backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding). Additionally, I'm actively contributing to projects that explore Bayesian approaches in exploratory factor analysis.
+
+Welcome to my developer portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
 
 ## Education
 
-**UTRECHT UNIVERSITY** \| Master in Methodology and Statistics for the
-Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
-Science* \| 2022-ongoing
+**UTRECHT UNIVERSITY, UTRECHT** \| Master in Methodology and Statistics for the
+Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-ongoing
+
+I am currently studying Bayesian statistics, machine learning, missing data, and sparse data analysis and working on my thesis on combining digital trace data and survey data for participation prediction.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
 
+I specialized in quantitative data for social sciences, survey data analysis and structural equation modeling, gratuated with honors and GPA of 8.8
+
 ## Experience
 
 **DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
-Sep 2023 - Ongoing \| Utrecht University
+ *Sep 2023 - Ongoing * \| Utrecht University
 
-I Explored packages for Bayesian exploratory factor analysis currently
-available in R and prepared a framework for a simulation study.
-Participating in writing an article on this topic.
+I explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. Now I am participating in writing an article on this topic.
 
 **SUMMER SCHOOL "SURVEY DESIGN: ANALYSIS AND ESTIMATION"** \| Teaching
 Assistant \| *Aug 2023* \| Utrecht University
 
-I helped summer school students to understand foundations of
-survey-based research & master basic R usage for survey data analysis.
+I helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
 
-**HOLDING "MINCHENKO CONSULTING"** \| Junior Analyst \| *Jul 2020 - Feb
-2022* \| Analytic Department
+**HOLDING "MINCHENKO CONSULTING"** \| Junior Analyst \| *Jul 2020 - Feb 2022* \| Analytic Department
 
-I Analysed data on Russian first-range officials spouses in social and
-traditional media and developed description of self-representation
-strategies. Published an article in Scopus Q2 journal.
+I analysed data on Russian first-range officials spouses in social and traditional media and developed description of self-representation strategies. Published an article in Scopus Q2 journal.
 
 **RONALD F. INGLEHART LABORATORY FOR COMPARATIVE SOCIAL RESEARCH** \|
-Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of
-Economics
+Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of Economics
 
-I Looked for appropriate indicators, did data wrangling and translated
-articles. As a main project, conducted replication study of Uslaner's
-"Inequality trap".
+I looked for appropriate indicators, did data wrangling, analysis, and translated articles. As a main project, conducted replication study of Uslaner's "Inequality trap".
 
-**DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct
-2020 - Jun 2021* \| Higher School of Economics
+**DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct 2020 - Jun 2021* \| Higher School of Economics
 
-I checked the control papers of first-year students, conducted
-consultations on basic R, LaTeX and probability theory topics.
+I checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.
+
+**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Teaching Assistant \| *Oct 2020 - Jun 2021* \| Higher School of Economics
+
+I checked the control papers of first-year students, conducted consultations on political theory and political philosophy topics.
 
 ## Publications
 
-Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the
-Opposition under Electoral Authoritarianism: The Case of the Russian
-Regional Parliamentary Elections in 2021. Russian Politics, 8(4),
-519-549.
+Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the Opposition under Electoral Authoritarianism: The Case of the Russian Regional Parliamentary Elections in 2021. Russian Politics, 8(4), 519-549.
 
-Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and
-Their Self-Representation Strategies: Celebrities or Housewives?
-Monitoring of Public Opinion: Economic and Social Changes, (5),
-138--162. (In Russ.)
+Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-Representation Strategies: Celebrities or Housewives? Monitoring of Public Opinion: Economic and Social Changes, (5), 138--162. (In Russ.)
+
+## Skills
+
+• R (packages: tidyverse, brms, lavaan, semTools, mice, ggplot2)
+• Python (packages: pandas, numpy, matplotlib, scikit-learn)
+• Microsoft Office (Word, Excel, PowerPoint)
+• LaTeX
+• SQL
+• SPSS
+• MPLUS
 
 ## Achievements
 
