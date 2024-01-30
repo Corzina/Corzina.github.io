@@ -14,10 +14,18 @@ I am working on my thesis on combining digital trace data and survey data for pa
 
 ## Political Science
 
+**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2021 - ongoing
+
+I explore how technologies in combination with new policies introduced in COVID period can affect electoral outcomes. Quantitative electoral data is used in the project. 
+
+**SOFT AND HARD PROPAGANDA ON SHIFT IN VALUES** |  *Research Project * | 2021 - ongoing
+
+Quasi experimental design is used to explore how soft and hard propaganda presented at Russian schools can affect shift in values. Quantitative survey data is utilized. 
+
 **STRATEGIES OF PARLIAMENTARY PARTIES** |  *Research Project * | 2021 - 2022
 
-I analyzed the new trends of centralized autocratic party creation on data from Russian 2021 elections. Paper on it is available in  *Russian Politics * journal.
+I analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal.
 
 **COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
 
-I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the  *Laboratory for Regional Research *, HSE.
+I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, HSE.
