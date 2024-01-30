@@ -59,7 +59,7 @@ I analysed data on Russian first-range officials spouses in social and tradition
 **RONALD F. INGLEHART LABORATORY FOR COMPARATIVE SOCIAL RESEARCH** \|
 Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of Economics
 
-I looked for appropriate indicators, did data wrangling, analysis, and translated articles. As a main project, conducted replication study of Uslaner's "Inequality trap".
+I looked for appropriate indicators, did data wrangling, analysis, and translated articles. Utilized SEM to conduct a replication study of Uslaner's "Inequality trap".
 
 **DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct 2020 - Jun 2021* \| Higher School of Economics
 

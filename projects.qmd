@@ -14,11 +14,11 @@ I am working on my thesis on combining digital trace data and survey data for pa
 
 ## Political Science
 
-**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2021 - ongoing
+**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2023 - ongoing
 
 I explore how technologies in combination with new policies introduced in COVID period can affect electoral outcomes. Quantitative electoral data is used in the project. 
 
-**SOFT AND HARD PROPAGANDA AND TRANSFORMATION OF VALUES** |  *Research Project * | 2021 - ongoing
+**SOFT AND HARD PROPAGANDA AND TRANSFORMATION OF VALUES** |  *Research Project * | 2023 - ongoing
 
 I use quasi-experimental design to investigate the impact of both soft and hard propaganda, as presented within Russian educational institutions, on the transformation of values. The study relies on quantitative survey data for analysis and insights.
 
