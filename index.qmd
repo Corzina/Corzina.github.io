@@ -56,7 +56,7 @@ Assistant \| *Aug 2023* \| Utrecht University
 
 I helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
 
-**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Research Assistant \| *Apr 2022 - Sept 2022* \| Higher School of Economics
+**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Research Assistant \| *Feb 2022 - Sept 2022* \| Higher School of Economics
 
 I collaborated on a research project led by D.Y. Rosenberg, which focused on the intersection of COVID-19 and the political bargaining process. My responsibilities encompassed data wrangling, in-depth analysis, and contribution to the literature review.
 
