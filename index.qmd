@@ -18,9 +18,9 @@ editor:
 
 ::: {#hero-heading}
 
-Greetings! I'm Ilya Fominykh, a Research Assistant at Utrecht University with a strong passion for quantitative methodology in the social sciences, Bayesian statistics, and survey data analysis. My research interests encompass a diverse range of topics, including electoral dynamics, regime transitions, and more.
+Greetings! I'm Ilya Fominykh, a Research Assistant at Utrecht University with a strong passion for quantitative methodology in the social sciences, Bayesian statistics, and survey data analysis. My research interests encompass a diverse range of topics, including electoral dynamics, regime transitions, individual values, and more.
 
-I'm actively engaged in numerous research projects that align with my expertise. Currently, I'm a dedicated member of a research group investigating technological illiberalism and the contemporary challenges associated with [democratic backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding). Additionally, I'm actively contributing to projects that explore Bayesian approaches in exploratory factor analysis.
+I'm actively engaged in numerous research projects that align with my expertise. Currently, I'm a dedicated member of a research groups investigating the contemporary challenges associated with [democratic backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding). Additionally, I'm actively contributing to projects that explore Bayesian approaches in exploratory factor analysis.
 
 Welcome to my developer portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
 
@@ -34,16 +34,16 @@ I am currently studying Bayesian statistics, machine learning, missing data, and
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
 
-I specialized in quantitative data for social sciences, survey data analysis and structural equation modeling, gratuated with honors and GPA of 8.8
+I specialized in quantitative data for social sciences, survey data analysis and structural equation modeling, graduated with honors, GPA 8.8
 
-**VCIOM SOCIOLOGICAL SCHOOL** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
+**VCIOM SOCIOLOGIC SCHOOL** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
 
 **DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
 
 ## Experience
 
 **DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
- *Sep 2023 - Ongoing * \| Utrecht University
+ *Sept 2023 - Ongoing * \| Utrecht University
 
 I explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. Now I am participating in writing an article on this topic.
 
@@ -101,6 +101,6 @@ Philosophy" track \| *2021*
 • Top-2 student rating of the Political Science programme, twice \|
 *2018-2019*
 
-• Personal scholarship of the Moscow Government | *2018-2019* \\
+• Personal scholarship of the Moscow Government | *2018-2019* 
 
 :::
