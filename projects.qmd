@@ -32,4 +32,4 @@ I analyzed the recent trends in centralized autocratic party formation using dat
 
 **COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
 
-I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here]((https://cfi.hse.ru/lrps/elb)
+I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here](https://cfi.hse.ru/lrps/elb)
