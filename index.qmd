@@ -11,7 +11,7 @@ about:
     - icon: share
       text: Orcid
       href: https://orcid.org/0000-0002-5107-3571
-    - icon: /icons/linkedin.svg
+    - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ilya-fominykh-3212632b1/
 editor: 
@@ -20,14 +20,13 @@ editor:
 ---
 
 ::: {#hero-heading}
-Greetings! I'm Ilya Fominykh, a Research Assistant at Utrecht University
+Greetings!  I'm Ilya Fominykh, a Research Assistant at Utrecht University
 with a strong passion for quantitative methodology in the social
 sciences, Bayesian statistics, and survey data analysis. My research
 interests encompass a diverse range of topics, including electoral
 dynamics, regime transitions, individual values, and more.
 
-I'm actively engaged in numerous research projects that align with my
-expertise. Currently, I'm a dedicated member of a research groups
+Currently, I'm a dedicated member of a research groups
 investigating the contemporary challenges associated with [democratic
 backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding).
 Additionally, I'm actively contributing to projects that explore
@@ -42,9 +41,7 @@ contributions in the world of data-driven research and analysis.
 the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
 Science* \| 2022-ongoing
 
-I am currently studying Bayesian statistics, machine learning, missing
-data, and sparse data analysis and working on my thesis on combining
-digital trace data and survey data for participation prediction.
+I am currently studying clustering algorithms, machine learning, neural networks and sparse data analysis. Also working on my thesis on combining digital trace data and survey data.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022

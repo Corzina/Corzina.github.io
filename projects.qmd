@@ -24,12 +24,12 @@ I use quasi-experimental design to investigate the changes in both soft and hard
 
 **REPLICATION STUDY OF INEQUALITY TRAP BY ERIK USLANER** |  *Research Project * | 2021 - 2022
 
-As my research practice and a part of my bachelor thesis, I replicated the study by Erik Uslaner on the relationship between inequality, corruption, and generalized trust. Using the latest Wave of the WVS (World Values Survey) and ESS (European Social Survey), I [acquired](https://www.hse.ru/ba/political/students/diplomas/620109658) the same results as presented in the original study.
+As my research practice and a part of my bachelor thesis, I replicated the study by Erik Uslaner on the relationship between inequality, corruption, and generalized trust. Using the latest Wave of the WVS (World Values Survey) and ESS (European Social Survey), I acquired the same results as presented in the original study, available [here](https://www.hse.ru/ba/political/students/diplomas/620109658).
 
 **STRATEGIES OF PARLIAMENTARY PARTIES** |  *Study Project * | 2021 - 2022
 
-I analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal, [here](https://brill.com/view/journals/rupo/8/4/article-p519_5.xml).
+I analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal, available [here](https://brill.com/view/journals/rupo/8/4/article-p519_5.xml).
 
 **COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
 
-I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots [are published](https://cfi.hse.ru/lrps/elb) on the site of the *Laboratory for Regional Research *, HSE.
+I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here]((https://cfi.hse.ru/lrps/elb)
