@@ -6,30 +6,30 @@ title: "My Projects"
 
 **COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-ongoing
 
-I analyse packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. Now I am participating in writing an article on this topic.
+I am engaged in a comparative study of R packages designed for Bayesian exploratory factor analysis, with the aim of developing a robust framework for a subsequent simulation study. I co-author a paper on this topic.
 
 **COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project * | 2023-ongoing
 
-I work on my thesis, where digital trace data is combined with survey data. The project is intended to increase response rates among underrepresented population groups and reduce costs of survey data collection.
+I work on my thesis, where digital trace data is combined with survey data. This project is designed to enhance response rates among underrepresented demographic groups, enriching the data acquired through conventional survey methodologies.
 
 ## Political Science
 
 **TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2023 - ongoing
 
-I explore how technologies in combination with new policies introduced in COVID period can affect electoral outcomes. Quantitative electoral data is used in the project. 
+I explore how new technologies and policies introduced in COVID era can affect electoral outcomes. Quantitative data on online voting in Russia is utilized in the project. 
 
 **SOFT AND HARD PROPAGANDA AND TRANSFORMATION OF VALUES** |  *Research Project * | 2023 - ongoing
 
-I use quasi-experimental design to investigate the impact of both soft and hard propaganda, as presented within Russian educational institutions, on the transformation of values. The study relies on quantitative survey data for analysis and insights.
+I use quasi-experimental design to investigate the changes in both soft and hard propaganda, as presented within Russian educational institutions, on the transformation of youth values. The study relies on quantitative survey data for analysis and insights.
 
 **REPLICATION STUDY OF INEQUALITY TRAP BY ERIK USLANER** |  *Research Project * | 2021 - 2022
 
-As a part of my research practice, I replicated the study by Erik Uslaner on the relationship between inequality, corruption, and generalized trust. Using latest Wave of the WVS (World Values Survey) and ESS (European Social Survey) data, I was able to replicate the results of the original study. 
+As my research practice and a part of my bachelor thesis, I replicated the study by Erik Uslaner on the relationship between inequality, corruption, and generalized trust. Using the latest Wave of the WVS (World Values Survey) and ESS (European Social Survey), I [acquired](https://www.hse.ru/ba/political/students/diplomas/620109658) the same results as presented in the original study.
 
-**STRATEGIES OF PARLIAMENTARY PARTIES** |  *Research Project * | 2021 - 2022
+**STRATEGIES OF PARLIAMENTARY PARTIES** |  *Study Project * | 2021 - 2022
 
-I analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal.
+I analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal, [here](https://brill.com/view/journals/rupo/8/4/article-p519_5.xml).
 
 **COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
 
-I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, HSE.
+I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots [are published](https://cfi.hse.ru/lrps/elb) on the site of the *Laboratory for Regional Research *, HSE.

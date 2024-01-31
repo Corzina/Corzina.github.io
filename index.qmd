@@ -11,77 +11,121 @@ about:
     - icon: share
       text: Orcid
       href: https://orcid.org/0000-0002-5107-3571
+    - icon: /icons/linkedin.svg
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ilya-fominykh-3212632b1/
 editor: 
   markdown: 
     wrap: 72
 ---
 
 ::: {#hero-heading}
+Greetings! I'm Ilya Fominykh, a Research Assistant at Utrecht University
+with a strong passion for quantitative methodology in the social
+sciences, Bayesian statistics, and survey data analysis. My research
+interests encompass a diverse range of topics, including electoral
+dynamics, regime transitions, individual values, and more.
 
-Greetings! I'm Ilya Fominykh, a Research Assistant at Utrecht University with a strong passion for quantitative methodology in the social sciences, Bayesian statistics, and survey data analysis. My research interests encompass a diverse range of topics, including electoral dynamics, regime transitions, individual values, and more.
+I'm actively engaged in numerous research projects that align with my
+expertise. Currently, I'm a dedicated member of a research groups
+investigating the contemporary challenges associated with [democratic
+backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding).
+Additionally, I'm actively contributing to projects that explore
+Bayesian approaches in exploratory factor analysis.
 
-I'm actively engaged in numerous research projects that align with my expertise. Currently, I'm a dedicated member of a research groups investigating the contemporary challenges associated with [democratic backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding). Additionally, I'm actively contributing to projects that explore Bayesian approaches in exploratory factor analysis.
-
-Welcome to my developer portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
+Welcome to my developer portfolio, where you can explore my journey and
+contributions in the world of data-driven research and analysis.
 
 ## Education
 
-**UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for the
-Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-ongoing
+**UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for
+the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
+Science* \| 2022-ongoing
 
-I am currently studying Bayesian statistics, machine learning, missing data, and sparse data analysis and working on my thesis on combining digital trace data and survey data for participation prediction.
+I am currently studying Bayesian statistics, machine learning, missing
+data, and sparse data analysis and working on my thesis on combining
+digital trace data and survey data for participation prediction.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
 
-I specialized in quantitative data for social sciences, survey data analysis and structural equation modeling, graduated with honors, GPA 8.9
+I specialized in quantitative data for social sciences, survey data
+analysis and structural equation modeling, graduated with honors, GPA
+8.9
 
-**VCIOM SOCIOLOGIC SCHOOL** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
+**VCIOM SOCIOLOGIC SCHOOL** \| Winter School \| *Track: Policy and
+Market Analysis* \| 2022
 
-I learned about the survey design and data collection, applying knowledge to solve business cases. 
+I learned about the survey design and data collection, applying
+knowledge to solve business cases.
 
-**DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
+**DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young
+Leaders* \| 2017
 
-I learned about the basics of international relations, effective communication, and economics.
+I learned about the basics of international relations, effective
+communication, and economics.
 
 ## Experience
 
 **DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
- *Sept 2023 - Ongoing * \| Utrecht University
+*Sept 2023 - Ongoing* \| Utrecht University
 
-I explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. Now I am participating in writing an article on this topic.
+I explored packages for Bayesian exploratory factor analysis currently
+available in R and prepared a framework for a simulation study. Now I am
+participating in writing an article on this topic.
 
 **SUMMER SCHOOL "SURVEY DESIGN: ANALYSIS AND ESTIMATION"** \| Teaching
 Assistant \| *Aug 2023* \| Utrecht University
 
-I helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
+I helped summer school students to understand foundations of
+survey-based research & master basic R usage for survey data analysis.
 
-**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Research Assistant \| *Feb 2022 - Sept 2022* \| Higher School of Economics
+**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Research Assistant \| *Feb
+2022 - Sept 2022* \| Higher School of Economics
 
-I collaborated on a research project led by D.Y. Rosenberg, which focused on the intersection of COVID-19 and the political bargaining process. My responsibilities encompassed data wrangling, in-depth analysis, and contribution to the literature review.
+I collaborated on a research project led by D.Y. Rosenberg, which
+focused on the intersection of COVID-19 and the political bargaining
+process. My responsibilities encompassed data wrangling, in-depth
+analysis, and contribution to the literature review.
 
-**HOLDING "MINCHENKO CONSULTING"** \| Junior Analyst \| *Jul 2020 - Feb 2022* \| Analytic Department
+**HOLDING "MINCHENKO CONSULTING"** \| Junior Analyst \| *Jul 2020 - Feb
+2022* \| Analytic Department
 
-I analysed data on Russian first-range officials spouses in social and traditional media and developed description of self-representation strategies. Published an article in Scopus Q2 journal.
+I analysed data on Russian first-range officials spouses in social and
+traditional media and developed description of self-representation
+strategies. Published an article in Scopus Q2 journal.
 
 **RONALD F. INGLEHART LABORATORY FOR COMPARATIVE SOCIAL RESEARCH** \|
-Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of Economics
+Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of
+Economics
 
-I looked for appropriate indicators, did data wrangling, analysis, and translated articles. Utilized SEM to conduct a replication study of Uslaner's "Inequality trap".
+I looked for appropriate indicators, did data wrangling, analysis, and
+translated articles. Utilized SEM to conduct a replication study of
+Uslaner's "Inequality trap".
 
-**DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct 2020 - Jun 2021* \| Higher School of Economics
+**DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct
+2020 - Jun 2021* \| Higher School of Economics
 
-I checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.
+I checked the control papers of first-year students, conducted
+consultations on basic R, LaTeX and probability theory topics.
 
-**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Teaching Assistant \| *Oct 2020 - Jun 2021* \| Higher School of Economics
+**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Teaching Assistant \| *Oct
+2020 - Jun 2021* \| Higher School of Economics
 
-I provided consultations on subjects within the domains of political theory and political philosophy.
+I provided consultations on subjects within the domains of political
+theory and political philosophy.
 
 ## Publications
 
-Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the Opposition under Electoral Authoritarianism: The Case of the Russian Regional Parliamentary Elections in 2021. Russian Politics, 8(4), 519-549.
+Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the
+Opposition under Electoral Authoritarianism: The Case of the Russian
+Regional Parliamentary Elections in 2021. Russian Politics, 8(4),
+519-549.
 
-Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-Representation Strategies: Celebrities or Housewives? Monitoring of Public Opinion: Economic and Social Changes, (5), 138--162. (In Russ.)
+Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and
+Their Self-Representation Strategies: Celebrities or Housewives?
+Monitoring of Public Opinion: Economic and Social Changes, (5),
+138--162. (In Russ.)
 
 ## Skills
 
@@ -109,6 +153,5 @@ Philosophy" track \| *2021*
 • Top-2 student rating of the Political Science programme, twice \|
 *2018-2019*
 
-• Personal scholarship of the Moscow Government | *2018-2019* 
-
+• Personal scholarship of the Moscow Government \| *2018-2019*
 :::
