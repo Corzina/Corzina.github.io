@@ -20,15 +20,11 @@ editor:
 ---
 
 ::: {#hero-heading}
-Greetings! My name is Ilya Fominykh, and I am a researcher with a background in
-quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis and Bayesian statistics. My research interests 
-encompass a range of topics including electoral studies and E-voting,   
-dynamics of individual values, and more.
+Greetings! My name is Ilya Fominykh, and I am a researcher with a background in quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis, and Bayesian statistics. My research interests encompass a range of topics including electoral studies and E-voting, the dynamics of individual values, and more.
 
-Currently, I participate in several research groups that focus on the intersection of political science and data science. Additionally, I'm actively contributing to project that explore Bayesian approaches in exploratory factor analysis.
+Currently, I participate in several research groups that focus on the intersection of political science and data science. Additionally, I'm actively contributing to projects that explore Bayesian approaches in exploratory factor analysis.
 
-Welcome to my personal portfolio, where you can explore my journey and
-contributions in the world of data-driven research and analysis.
+Welcome to my personal portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
 
 ## Education
 
@@ -36,7 +32,7 @@ contributions in the world of data-driven research and analysis.
 the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
 Science* \| 2022-2024
 
-I studied clustering algorithms, ML-approaches, neural networks, low- and high-dimensional data analysis. My thesis explored sources of error in linked survey data and donated digital trace data.
+I studied clustering algorithms, ML-approaches, neural networks, low- and high-dimensional data analysis. My thesis explored sources of error in survey data linked with donated digital trace data.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
