@@ -20,28 +20,23 @@ editor:
 ---
 
 ::: {#hero-heading}
-Greetings!  I'm Ilya Fominykh, a Research Assistant at Utrecht University
-with a strong passion for quantitative methodology in the social
-sciences, Bayesian statistics, and survey data analysis. My research
-interests encompass a diverse range of topics, including electoral
-dynamics, regime transitions, individual values, and more.
+Greetings! My name is Ilya Fominykh, and I am a researcher with a background in
+quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis and Bayesian statistics. My research interests 
+encompass a range of topics including electoral studies and E-voting,   
+dynamics of individual values, and more.
 
-Currently, I'm a dedicated member of a research groups
-investigating the contemporary challenges associated with [democratic
-backsliding](https://en.wikipedia.org/wiki/Democratic_backsliding).
-Additionally, I'm actively contributing to projects that explore
-Bayesian approaches in exploratory factor analysis.
+Currently, I participate in several research groups that focus on the intersection of political science and data science. Additionally, I'm actively contributing to project that explore Bayesian approaches in exploratory factor analysis.
 
-Welcome to my developer portfolio, where you can explore my journey and
+Welcome to my personal portfolio, where you can explore my journey and
 contributions in the world of data-driven research and analysis.
 
 ## Education
 
 **UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for
 the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
-Science* \| 2022-ongoing
+Science* \| 2022-2024
 
-I am currently studying clustering algorithms, machine learning, neural networks and sparse data analysis. Also working on my thesis on combining digital trace data and survey data.
+I studied clustering algorithms, ML-approaches, neural networks, low- and high-dimensional data analysis. My thesis explored sources of error in linked survey data and donated digital trace data.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
@@ -61,8 +56,13 @@ communication, and economics.
 
 ## Experience
 
+**BartsParts B.V.** \| Junior Business Analyst \|
+*June 2024 - Ongoing* \| Leiden
+
+I operate SQL queries to extract data from the company's database and perform data analysis to optimize the company's operations. 
+
 **DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
-*Sept 2023 - Ongoing* \| Utrecht University
+*Sept 2023 - June 2024* \| Utrecht University
 
 I explored packages for Bayesian exploratory factor analysis currently
 available in R and prepared a framework for a simulation study. Now I am
@@ -120,6 +120,10 @@ Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and
 Their Self-Representation Strategies: Celebrities or Housewives?
 Monitoring of Public Opinion: Economic and Social Changes, (5),
 138--162. (In Russ.)
+
+## Conferences
+
+**2nd Conference "New Advances in the Political Economy of Development in Eurasia"** \| Presenter \| *2024* \| Almaty, Kazakhstan
 
 ## Skills
 

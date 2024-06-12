@@ -8,7 +8,7 @@ title: "My Projects"
 
 I am engaged in a comparative study of R packages designed for Bayesian exploratory factor analysis, with the aim of developing a robust framework for a subsequent simulation study. I co-author a paper on this topic.
 
-**COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project * | 2023-ongoing
+**COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project * | 2023-2024
 
 I work on my thesis, where digital trace data is combined with survey data. This project is designed to enhance response rates among underrepresented demographic groups, enriching the data acquired through conventional survey methodologies.
 
@@ -18,7 +18,7 @@ I work on my thesis, where digital trace data is combined with survey data. This
 
 I explore how new technologies and policies introduced in COVID era can affect electoral outcomes. Quantitative data on online voting in Russia is utilized in the project. 
 
-**SOFT AND HARD PROPAGANDA AND TRANSFORMATION OF VALUES** |  *Research Project * | 2023 - ongoing
+**YOUTH INDOCTRINATION: WILL IT ACHIEVE LOYALTY OR HATRED?** |  *Research Project * | 2023 - ongoing
 
 I use quasi-experimental design to investigate the changes in both soft and hard propaganda, as presented within Russian educational institutions, on the transformation of youth values. The study relies on quantitative survey data for analysis and insights.
 
