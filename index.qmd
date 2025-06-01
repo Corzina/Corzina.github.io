@@ -21,7 +21,7 @@ editor:
 
 ::: {#hero-heading}
 
-Greetings! My name is Ilya Fominykh, and I am a researcher with a background in quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis, and Bayesian statistics. My research interests encompass a range of topics including electoral studies and E-voting, the dynamics of individual values, and more.
+Greetings! My name is Ilya Fominykh, and I am a researcher with a background in statistics and quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis, and quasi-experimental research designs. My research interests encompass a range of topics including electoral studies and E-voting, the dynamics of individual values, propaganda, and more.
 
 Welcome to my personal portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
 
@@ -31,10 +31,10 @@ Welcome to my personal portfolio, where you can explore my journey and contribut
 the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
 Science* \| 2022-2024
 
-Focused on clustering, machine learning, neural networks, and the analysis of 
+Focused on clustering, machine learning, and the analysis of 
 high- and low-dimensional data. Thesis investigates error sources in survey 
 data linked with donated digital trace data, and the opportunities to decrease bias
-introduced by them.
+introduced by selective participation.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
@@ -45,7 +45,7 @@ multilevel modeling, time-series analysis, and structural equation modeling.
 **VCIOM SOCIOLOGIC SCHOOL** \| Winter School \| *Track: Policy and
 Market Analysis* \| 2022
 
-Studied survey design and data collection strategies, applying them to real-world 
+Studied survey designs and data collection strategies, applying them to real-world 
 business and policy cases.
 
 **DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young
@@ -56,11 +56,11 @@ Graduated with honors (A). Explored foundational concepts in international relat
 ## Experience
 
 **BartsParts B.V.** \| Business Analyst \|
-*June 2024 - Dec 2024* \| Leiden
+*Dec 2024 - Ongoing* \| Leiden
 
 Lead end-to-end development of automated, data-driven solutions using Microsoft Fabric, 
 Azure, and Power BI. Integrate and transform data from multiple sources, design 
-scalable pipelines, and deliver real-time dashboards that inform strategic decisions 
+scalable pipelines, and deliver near real-time dashboards that inform strategic decisions 
 across departments. Collaborate with cross-functional teams to identify data gaps 
 and improve operational efficiency.
 
@@ -75,8 +75,8 @@ and DAX, enabling real-time analytics for business operations and reporting.
 *Sept 2023 - June 2024* \| Utrecht University
 
 I explored packages for Bayesian exploratory factor analysis currently
-available in R and prepared a framework for a simulation study. Now I am
-participating in writing an article on this topic.
+available in R and prepared a framework for a simulation study.
+Participating in writing an article on this topic.
 
 **SUMMER SCHOOL "SURVEY DESIGN: ANALYSIS AND ESTIMATION"** \| Teaching
 Assistant \| *Aug 2023* \| Utrecht University
@@ -164,7 +164,7 @@ Monitoring of Public Opinion: Economic and Social Changes, (5),
 
 ## Achievements
 
-• Utrecht Excellence Scholarship recipient \| *2022-ongoing*
+• Utrecht Excellence Scholarship recipient \| *2022-2024*
 
 • Student's olympiad "Higher League" winner - "Politics, Economics,
 Philosophy" track \| *2021*

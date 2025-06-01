@@ -4,7 +4,7 @@ title: "My Projects"
 
 ## Methodology and Statistics
 
-**COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-2025
+**COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-ongoing
 
 Contributed to a comparative study of R packages for Bayesian exploratory factor analysis (EFA), aiming to evaluate their performance and underlying assumptions. The project supports the development of a robust framework for future simulation-based validation of Bayesian EFA methods. Co-authoring a research paper based on the study’s findings.
 
@@ -16,7 +16,7 @@ My thesis investigates the integration of digital trace data with traditional su
 
 **YOUTH INDOCTRINATION: WILL IT ACHIEVE LOYALTY OR HATRED?** |  *Research Project * | 2023 - ongoing
 
-This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, I examine how exposure to both soft and hard forms of propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533)
+This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, I examine how exposure to soft propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533)
 
 **TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2024 - 2025
 
