@@ -20,9 +20,8 @@ editor:
 ---
 
 ::: {#hero-heading}
-Greetings! My name is Ilya Fominykh, and I am a researcher with a background in quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis, and Bayesian statistics. My research interests encompass a range of topics including electoral studies and E-voting, the dynamics of individual values, and more.
 
-Currently, I participate in several research groups that focus on the intersection of political science and data science. Additionally, I'm actively contributing to projects that explore Bayesian approaches in exploratory factor analysis.
+Greetings! My name is Ilya Fominykh, and I am a researcher with a background in quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis, and Bayesian statistics. My research interests encompass a range of topics including electoral studies and E-voting, the dynamics of individual values, and more.
 
 Welcome to my personal portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
 
@@ -32,30 +31,45 @@ Welcome to my personal portfolio, where you can explore my journey and contribut
 the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
 Science* \| 2022-2024
 
-I studied clustering algorithms, ML-approaches, neural networks, low- and high-dimensional data analysis. My thesis explored sources of error in survey data linked with donated digital trace data.
+Focused on clustering, machine learning, neural networks, and the analysis of 
+high- and low-dimensional data. Thesis investigates error sources in survey 
+data linked with donated digital trace data, and the opportunities to decrease bias
+introduced by them.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
 \| *Track: Political Analysis* \| 2018-2022
 
-My specialization was in quantitative data analysis within the social sciences, focusing on time-series and multilevel data, as well as structural equation modeling. Graduating with honours, I attained a GPA of 8.9.
+Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including 
+multilevel modeling, time-series analysis, and structural equation modeling.
 
 **VCIOM SOCIOLOGIC SCHOOL** \| Winter School \| *Track: Policy and
 Market Analysis* \| 2022
 
-I learned about the survey design and data collection, applying knowledge to solve business cases.
+Studied survey design and data collection strategies, applying them to real-world 
+business and policy cases.
 
 **DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young
 Leaders* \| 2017
 
-I learned about the basics of international relations, effective
-communication, and economics.
+Graduated with honors (A). Explored foundational concepts in international relations, communication, and economics in a multidisciplinary setting.
 
 ## Experience
 
-**BartsParts B.V.** \| Junior Business Analyst \|
-*June 2024 - Ongoing* \| Leiden
+**BartsParts B.V.** \| Business Analyst \|
+*June 2024 - Dec 2024* \| Leiden
 
-I operate SQL queries to extract data from the company's database and perform data analysis to optimize the company's operations. 
+Lead end-to-end development of automated, data-driven solutions using Microsoft Fabric, 
+Azure, and Power BI. Integrate and transform data from multiple sources, design 
+scalable pipelines, and deliver real-time dashboards that inform strategic decisions 
+across departments. Collaborate with cross-functional teams to identify data gaps 
+and improve operational efficiency.
+
+**BartsParts B.V.** \| Junior Business Analyst \|
+*June 2024 - Dec 2024* \| Leiden
+
+Developed automated dashboards and pricing policy reports within the Microsoft 
+Fabric environment. Unified disparate datasets using SQL, sparkR, PySpark, 
+and DAX, enabling real-time analytics for business operations and reporting.
 
 **DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
 *Sept 2023 - June 2024* \| Utrecht University
@@ -83,7 +97,7 @@ analysis, and contribution to the literature review.
 
 I analysed data on Russian first-range officials spouses in social and
 traditional media and developed description of self-representation
-strategies. Published an article in Scopus Q2 journal.
+strategies.
 
 **RONALD F. INGLEHART LABORATORY FOR COMPARATIVE SOCIAL RESEARCH** \|
 Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of
@@ -107,6 +121,13 @@ theory and political philosophy.
 
 ## Publications
 
+Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination 
+in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.
+
+Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). 
+The rise of tech illiberalism in Russia: E-voting and new dimensions of 
+securitization. Journal of Illiberalism Studies, 4(3), 51–71. 
+
 Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the
 Opposition under Electoral Authoritarianism: The Case of the Russian
 Regional Parliamentary Elections in 2021. Russian Politics, 8(4),
@@ -119,6 +140,8 @@ Monitoring of Public Opinion: Economic and Social Changes, (5),
 
 ## Conferences
 
+**ODISSEI Conference for Computational Social Science** \| Presenter \| *2024* \| Utrecht, Netherlands
+
 **2nd Conference "New Advances in the Political Economy of Development in Eurasia"** \| Presenter \| *2024* \| Almaty, Kazakhstan
 
 ## Skills
@@ -126,6 +149,8 @@ Monitoring of Public Opinion: Economic and Social Changes, (5),
 • R (packages: tidyverse, brms, lavaan, semTools, mice, ggplot2)
 
 • Python (packages: pandas, numpy, matplotlib, scikit-learn)
+
+• Microsoft Fabric, Power BI, Azure 
 
 • Microsoft Office (Word, Excel, PowerPoint)
 

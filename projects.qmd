@@ -4,23 +4,23 @@ title: "My Projects"
 
 ## Methodology and Statistics
 
-**COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-ongoing
+**COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-2025
 
-I am engaged in a comparative study of R packages designed for Bayesian exploratory factor analysis, with the aim of developing a robust framework for a subsequent simulation study. I co-author a paper on this topic.
+Contributed to a comparative study of R packages for Bayesian exploratory factor analysis (EFA), aiming to evaluate their performance and underlying assumptions. The project supports the development of a robust framework for future simulation-based validation of Bayesian EFA methods. Co-authoring a research paper based on the study’s findings.
 
-**COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project * | 2023-2024
+**COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project* | 2023-2024
 
-I work on my thesis, where digital trace data is combined with survey data. This project is designed to enhance response rates among underrepresented demographic groups, enriching the data acquired through conventional survey methodologies.
+My thesis investigates the integration of digital trace data with traditional survey methods, aiming to improve representativeness by boosting response accuracy among demographic groups that are typically underrepresented and less likely to share their data. To address this, I examined the sources of bias and developed data enrichment techniques designed to enhance the representativeness of the collected data.
 
 ## Political Science
 
-**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2023 - ongoing
-
-I explore how new technologies and policies introduced in COVID era can affect electoral outcomes. Quantitative data on online voting in Russia is utilized in the project. 
-
 **YOUTH INDOCTRINATION: WILL IT ACHIEVE LOYALTY OR HATRED?** |  *Research Project * | 2023 - ongoing
 
-I use quasi-experimental design to investigate the changes in both soft and hard propaganda, as presented within Russian educational institutions, on the transformation of youth values. The study relies on quantitative survey data for analysis and insights.
+This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, I examine how exposure to both soft and hard forms of propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533)
+
+**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2024 - 2025
+
+The research explored how digital technologies and emergency-era policies—particularly those introduced during COVID-19—affect electoral outcomes and democratic institutions. Using quantitative data on online voting in Russia, the project analyzes how the state’s digital infrastructure facilitates electoral manipulation, surveillance, and coercive governance under the guise of modernization and convenience. I Co-authored a working paper analyzing shifts in youth attitudes toward the state and political participation, which can be found [here](https://www.illiberalism.org/the-rise-of-tech-illiberalism-in-russia-e-voting-and-new-dimensions-of-securitization/).
 
 **REPLICATION STUDY OF INEQUALITY TRAP BY ERIK USLANER** |  *Research Project * | 2021 - 2022
 
