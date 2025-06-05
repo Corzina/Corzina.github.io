@@ -6,25 +6,25 @@ title: "My Projects"
 
 **COMPARING BAYESIAN APPROACHES TO EXPLORATORY FACTOR ANALYSIS** |  *Research Project * | 2023-ongoing
 
-Contributed to a comparative study of R packages for Bayesian exploratory factor analysis (EFA), aiming to evaluate their performance and underlying assumptions. The project supports the development of a robust framework for future simulation-based validation of Bayesian EFA methods. Co-authoring a research paper based on the study’s findings.
+Contributed to a comparative study of R packages for Bayesian exploratory factor analysis (EFA), aiming to evaluate their performance and underlying assumptions. The project supports the development of a robust framework for future simulation-based validation of BEFA methods. Co-authoring a research paper based on the study’s findings.
 
 **COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project* | 2023-2024
 
-My thesis investigates the integration of digital trace data with traditional survey methods, aiming to improve representativeness by boosting response accuracy among demographic groups that are typically underrepresented and less likely to share their data. To address this, I examined the sources of bias and developed data enrichment techniques designed to enhance the representativeness of the collected data.
+Investigated integration of digital trace and survey data, specifically addressing bias from selective participation. Explored sources of bias and analyzed data enrichment techniques that allow to enhance accuracy and inclusiveness of demographic groups typically underrepresented in survey research.
 
 ## Political Science
 
 **YOUTH INDOCTRINATION: WILL IT ACHIEVE LOYALTY OR HATRED?** |  *Research Project * | 2023 - ongoing
 
-This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, I examine how exposure to soft propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533)
+This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, We examine how exposure to soft propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533).
 
 **TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2024 - 2025
 
-The research explored how digital technologies and emergency-era policies—particularly those introduced during COVID-19—affect electoral outcomes and democratic institutions. Using quantitative data on online voting in Russia, the project analyzes how the state’s digital infrastructure facilitates electoral manipulation, surveillance, and coercive governance under the guise of modernization and convenience. I Co-authored a working paper analyzing shifts in youth attitudes toward the state and political participation, which can be found [here](https://www.illiberalism.org/the-rise-of-tech-illiberalism-in-russia-e-voting-and-new-dimensions-of-securitization/).
+Analyzed how digital infrastructure and emergency-era policies affect electoral outcomes in authoritarian contexts, using data on online voting in Russia. Co-authored a working paper on youth political attitudes and state-led digital securitization, available [here](https://www.illiberalism.org/the-rise-of-tech-illiberalism-in-russia-e-voting-and-new-dimensions-of-securitization/).
 
 **REPLICATION STUDY OF INEQUALITY TRAP BY ERIK USLANER** |  *Research Project * | 2021 - 2022
 
-As my research practice and a part of my bachelor thesis, I replicated the study by Erik Uslaner on the relationship between inequality, corruption, and generalized trust. Using the latest Wave of the WVS (World Values Survey) and ESS (European Social Survey), I acquired the same results as presented in the original study, available [here](https://www.hse.ru/ba/political/students/diplomas/620109658).
+Replicated Uslaner’s findings on the links between inequality, corruption, and generalized trust using recent waves of the World Values Survey and European Social Survey. Results matched the original study. Project results are available [here](https://www.hse.ru/ba/political/students/diplomas/620109658).
 
 **STRATEGIES OF PARLIAMENTARY PARTIES** |  *Study Project * | 2021 - 2022
 
@@ -32,4 +32,4 @@ I analyzed the recent trends in centralized autocratic party formation using dat
 
 **COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
 
-I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here](https://cfi.hse.ru/lrps/elb)
+I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here](https://cfi.hse.ru/lrps/elb).

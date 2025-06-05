@@ -21,9 +21,9 @@ editor:
 
 ::: {#hero-heading}
 
-Greetings! My name is Ilya Fominykh, and I am a researcher with a background in statistics and quantitative methods for social sciences with an emphasis on survey data analysis, digital trace data analysis, and quasi-experimental research designs. My research interests encompass a range of topics including electoral studies and E-voting, the dynamics of individual values, propaganda, and more.
+Greetings! I'm Ilya Fominykh, a researcher specializing in statistics and quantitative methods for the social sciences. My work focuses on survey data analysis, digital trace data, and quasi-experimental designs. I am particularly interested in electoral behavior, value change, and other topics at the intersection of individual dynamics and societal trends.
 
-Welcome to my personal portfolio, where you can explore my journey and contributions in the world of data-driven research and analysis.
+Welcome to my portfolio, where you can explore my academic and applied research in data-driven social science.
 
 ## Education
 
@@ -31,112 +31,70 @@ Welcome to my personal portfolio, where you can explore my journey and contribut
 the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
 Science* \| 2022-2024
 
-Focused on clustering, machine learning, and the analysis of 
-high- and low-dimensional data. Thesis investigates error sources in survey 
-data linked with donated digital trace data, and the opportunities to decrease bias
-introduced by selective participation.
+Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
 
-**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| Bachelor in Political Science
+**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science
 \| *Track: Political Analysis* \| 2018-2022
 
-Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including 
-multilevel modeling, time-series analysis, and structural equation modeling.
+Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.
 
-**VCIOM SOCIOLOGIC SCHOOL** \| Winter School \| *Track: Policy and
+**VCIOM SOCIOLOGIC SCHOOL, MOSCOW** \| Winter School \| *Track: Policy and
 Market Analysis* \| 2022
 
-Studied survey designs and data collection strategies, applying them to real-world 
-business and policy cases.
+Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.
 
 **DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young
 Leaders* \| 2017
 
-Graduated with honors (A). Explored foundational concepts in international relations, communication, and economics in a multidisciplinary setting.
+Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytical and leadership skills.
 
 ## Experience
 
-**BartsParts B.V.** \| Business Analyst \|
-*Dec 2024 - Ongoing* \| Leiden
+**Business Analyst** \| Data Analytics Department \| *Dec 2024 - Ongoing* \| BartsParts B.V.
 
-Lead end-to-end development of automated, data-driven solutions using Microsoft Fabric, 
-Azure, and Power BI. Integrate and transform data from multiple sources, design 
-scalable pipelines, and deliver near real-time dashboards that inform strategic decisions 
-across departments. Collaborate with cross-functional teams to identify data gaps 
-and improve operational efficiency.
+I lead the end-to-end development of automated, data-driven solutions using Microsoft Fabric, Azure, and Power BI. My responsibilities include integrating and transforming data from multiple sources, designing scalable pipelines, and delivering near real-time dashboards that support strategic decision-making across departments. I collaborate with cross-functional teams to identify data gaps and enhance operational efficiency.
 
-**BartsParts B.V.** \| Junior Business Analyst \|
-*June 2024 - Dec 2024* \| Leiden
+**Junior Business Analyst** \| Data Analytics Department \| *June 2024 - Dec 2024* \| BartsParts B.V.
 
-Developed automated dashboards and pricing policy reports within the Microsoft 
-Fabric environment. Unified disparate datasets using SQL, sparkR, PySpark, 
-and DAX, enabling real-time analytics for business operations and reporting.
+Developed automated dashboards and pricing policy reports within the Microsoft Fabric environment. Unified disparate databases using SQL, sparkR, PySpark, and DAX, enabling real-time analytics for business operations and reporting.
 
-**DEPARTMENT OF METHODOLOGY AND STATISTICS** \| Research Assistant \|
-*Sept 2023 - June 2024* \| Utrecht University
+**Research Assistant** \| Department of Methodology and Statistics \| *Sept 2023 - June 2024* \| Utrecht University
 
-I explored packages for Bayesian exploratory factor analysis currently
-available in R and prepared a framework for a simulation study.
-Participating in writing an article on this topic.
+I explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. 
 
-**SUMMER SCHOOL "SURVEY DESIGN: ANALYSIS AND ESTIMATION"** \| Teaching
-Assistant \| *Aug 2023* \| Utrecht University
+**Teaching Assistant** \| Department of Methodology and Statistics \| *Aug 2023* \| Utrecht University
 
-I helped summer school students to understand foundations of
-survey-based research & master basic R usage for survey data analysis.
+I helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
 
-**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Research Assistant \| *Feb
-2022 - Sept 2022* \| Higher School of Economics
+**Research Assistant** \| Department of Politics and Governance \| *Feb 2022 - Sept 2022* \| Higher School of Economics
 
-I collaborated on a research project led by D.Y. Rosenberg, which
-focused on the intersection of COVID-19 and the political bargaining
-process. My responsibilities encompassed data wrangling, in-depth
-analysis, and contribution to the literature review.
+Contributed to a research project examining the impact of COVID-19 on political bargaining processes. Responsibilities included advanced data wrangling, cleaning, and integration of multiple datasets; conducting quantitative analysis using R and Python.
 
-**HOLDING "MINCHENKO CONSULTING"** \| Junior Analyst \| *Jul 2020 - Feb
-2022* \| Analytic Department
+**Trainee Researcher** \| Ronald F. Inglehart Laboratory for Comparative Social Research \| *Feb 2021 - Feb 2022* \| Higher School of Economics
 
-I analysed data on Russian first-range officials spouses in social and
-traditional media and developed description of self-representation
-strategies.
+Sourced and curated relevant quantitative indicators, performed extensive data wrangling and preprocessing. Conducted statistical analysis and structural equation modeling (SEM) to replicate and validate Uslaner's "Inequality Trap" study. 
 
-**RONALD F. INGLEHART LABORATORY FOR COMPARATIVE SOCIAL RESEARCH** \|
-Trainee Researcher \| *Feb 2021 - Feb 2022* \| Higher School of
-Economics
+**Junior Analyst** \| Holding "Minchenko Consulting" \| *Jul 2020 - Feb 2022* \| Analytic Department
 
-I looked for appropriate indicators, did data wrangling, analysis, and
-translated articles. Utilized SEM to conduct a replication study of
-Uslaner's "Inequality trap".
+Conducted comprehensive analysis of media representation of spouses of Russian high-ranking officials across social and traditional media platforms. Developed typologies of self-representation strategies grounded in qualitative and quantitative data.
 
-**DEPARTMENT OF HIGHER MATHEMATICS** \| Teaching Assistant \| *Oct
-2020 - Jun 2021* \| Higher School of Economics
+**Teaching Assistant** \| Department of Higher Mathematics \| *Oct 2020 - Jun 2021* \| Higher School of Economics
 
-I checked the control papers of first-year students, conducted
-consultations on basic R, LaTeX and probability theory topics.
+Checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.
 
-**DEPARTMENT OF POLITICS AND GOVERNANCE** \| Teaching Assistant \| *Oct
-2020 - Jun 2021* \| Higher School of Economics
+**Teaching Assistant** \| Department of Politics and Governance \| *Oct 2020 - Jun 2021* \| Higher School of Economics
 
-I provided consultations on subjects within the domains of political
-theory and political philosophy.
+Provided consultations on subjects within the domains of political theory and political philosophy.
 
 ## Publications
 
-Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination 
-in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.
+Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.
 
-Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). 
-The rise of tech illiberalism in Russia: E-voting and new dimensions of 
-securitization. Journal of Illiberalism Studies, 4(3), 51–71. 
+Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). The rise of tech illiberalism in Russia: E-voting and new dimensions of securitization. Journal of Illiberalism Studies, 4(3), 51–71. 
 
-Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the
-Opposition under Electoral Authoritarianism: The Case of the Russian
-Regional Parliamentary Elections in 2021. Russian Politics, 8(4),
-519-549.
+Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the Opposition under Electoral Authoritarianism: The Case of the Russian Regional Parliamentary Elections in 2021. Russian Politics, 8(4), 519-549.
 
-Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and
-Their Self-Representation Strategies: Celebrities or Housewives?
-Monitoring of Public Opinion: Economic and Social Changes, (5),
-138--162. (In Russ.)
+Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-Representation Strategies: Celebrities or Housewives? Monitoring of Public Opinion: Economic and Social Changes, (5), 138--162. (In Russ.)
 
 ## Conferences
 
@@ -146,21 +104,24 @@ Monitoring of Public Opinion: Economic and Social Changes, (5),
 
 ## Skills
 
-• R (packages: tidyverse, brms, lavaan, semTools, mice, ggplot2)
+**Statistical & Data Analysis**
 
-• Python (packages: pandas, numpy, matplotlib, scikit-learn)
+• R/sparkR (tidyverse, brms, lavaan, semTools, mice, ggplot2, Shiny)
+• Python/Pyspark (pandas, numpy, matplotlib, scikit-learn)
+• SQL (MySQL, SQLite)
+• DAX, PowerQuery, Git, SPSS, Mplus
 
-• Microsoft Fabric, Power BI, Azure 
+**Data Visualization & BI Tools**
 
+• Power BI 
+• Microsoft Fabric 
+• Python/R visualizations
+
+**Cloud & Workflow Tools**
+
+• Microsoft Azure (Data Lake, Data Engineering, Data Factory)
+• LaTeX (Overleaf)
 • Microsoft Office (Word, Excel, PowerPoint)
-
-• LaTeX
-
-• SQL
-
-• SPSS
-
-• MPLUS
 
 ## Achievements
 
