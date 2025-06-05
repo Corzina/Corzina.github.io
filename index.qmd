@@ -27,24 +27,19 @@ Welcome to my portfolio, where you can explore my academic and applied research 
 
 ## Education
 
-**UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for
-the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data
-Science* \| 2022-2024
+**UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-2024
 
 Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
 
-**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science
-\| *Track: Political Analysis* \| 2018-2022
+**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science \| *Track: Political Analysis* \| 2018-2022
 
 Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.
 
-**VCIOM SOCIOLOGIC SCHOOL, MOSCOW** \| Winter School \| *Track: Policy and
-Market Analysis* \| 2022
+**VCIOM SOCIOLOGIC SCHOOL, MOSCOW** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
 
 Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.
 
-**DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young
-Leaders* \| 2017
+**DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
 
 Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytical and leadership skills.
 
@@ -60,11 +55,11 @@ Developed automated dashboards and pricing policy reports within the Microsoft F
 
 **Research Assistant** \| Department of Methodology and Statistics \| *Sept 2023 - June 2024* \| Utrecht University
 
-I explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. 
+Explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. 
 
 **Teaching Assistant** \| Department of Methodology and Statistics \| *Aug 2023* \| Utrecht University
 
-I helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
+Helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
 
 **Research Assistant** \| Department of Politics and Governance \| *Feb 2022 - Sept 2022* \| Higher School of Economics
 
@@ -107,31 +102,36 @@ Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-
 **Statistical & Data Analysis**
 
 • R/sparkR (tidyverse, brms, lavaan, semTools, mice, ggplot2, Shiny)
+
 • Python/Pyspark (pandas, numpy, matplotlib, scikit-learn)
+
 • SQL (MySQL, SQLite)
+
 • DAX, PowerQuery, Git, SPSS, Mplus
 
 **Data Visualization & BI Tools**
 
 • Power BI 
+
 • Microsoft Fabric 
+
 • Python/R visualizations
 
 **Cloud & Workflow Tools**
 
 • Microsoft Azure (Data Lake, Data Engineering, Data Factory)
+
 • LaTeX (Overleaf)
+
 • Microsoft Office (Word, Excel, PowerPoint)
 
 ## Achievements
 
 • Utrecht Excellence Scholarship recipient \| *2022-2024*
 
-• Student's olympiad "Higher League" winner - "Politics, Economics,
-Philosophy" track \| *2021*
+• Student's olympiad "Higher League" winner - "Politics, Economics,Philosophy" track \| *2021*
 
-• Top-2 student rating of the Political Science programme, twice \|
-*2018-2019*
+• Top-2 student rating of the Political Science programme, twice \| *2018-2019*
 
 • Personal scholarship of the Moscow Government \| *2018-2019*
 :::

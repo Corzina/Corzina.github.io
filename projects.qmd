@@ -18,7 +18,7 @@ Investigated integration of digital trace and survey data, specifically addressi
 
 This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, We examine how exposure to soft propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533).
 
-**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2024 - 2025
+**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2023 - 2024
 
 Analyzed how digital infrastructure and emergency-era policies affect electoral outcomes in authoritarian contexts, using data on online voting in Russia. Co-authored a working paper on youth political attitudes and state-led digital securitization, available [here](https://www.illiberalism.org/the-rise-of-tech-illiberalism-in-russia-e-voting-and-new-dimensions-of-securitization/).
 
