@@ -25,77 +25,79 @@ Greetings! I'm Ilya Fominykh, a researcher specializing in statistics and quanti
 
 Welcome to my portfolio, where you can explore my academic and applied research in data-driven social science.
 
+:::
+
 ## Education
 
 **UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-2024
 
-Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
+• Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science \| *Track: Political Analysis* \| 2018-2022
 
-Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.
+• Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.
 
 **VCIOM SOCIOLOGIC SCHOOL, MOSCOW** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
 
-Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.
+• Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.
 
 **DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
 
-Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills.
+• Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills.
 
 ## Experience
 
 **Business Analyst** \| Data Analytics Department \| *Dec 2024 - Ongoing* \| BartsParts B.V.
 
-As a Business Analyst, I spearhead the design and implementation of data-driven solutions to advance key business objectives. Leveraging Microsoft Fabric, Azure, and Power BI, I architect scalable data pipelines and integrate information from diverse sources, facilitating a single source of truth for critical decision-making. My role includes building near real-time dashboards tailored for multiple departments, driving strategic insights, and leading initiatives to identify and address data gaps. I collaborate closely with cross-functional stakeholders to optimize data workflows and embed analytics into daily operations for measurable efficiency gains.
+• As a Business Analyst, I spearhead the design and implementation of data-driven solutions to advance key business objectives. Leveraging Microsoft Fabric, Azure, and Power BI, I architect scalable data pipelines and integrate information from diverse sources, facilitating a single source of truth for critical decision-making. My role includes building near real-time dashboards tailored for multiple departments, driving strategic insights, and leading initiatives to identify and address data gaps. I collaborate closely with cross-functional stakeholders to optimize data workflows and embed analytics into daily operations for measurable efficiency gains.
 
 **Junior Business Analyst** \| Data Analytics Department \| *June 2024 - Dec 2024* \| BartsParts B.V.
 
-Focused on unifying data infrastructure by consolidating disparate databases using SQL, sparkR, PySpark, and DAX. I was responsible for developing automated dashboards in Microsoft Fabric, which improved business reporting speed and reliability. My efforts contributed to empowering business units with up-to-date, actionable insights and set the foundation for scaling analytics across the organization.
+• Focused on unifying data infrastructure by consolidating disparate databases using SQL, sparkR, PySpark, and DAX. I was responsible for developing automated dashboards in Microsoft Fabric, which improved business reporting speed and reliability. My efforts contributed to empowering business units with up-to-date, actionable insights and set the foundation for scaling analytics across the organization.
 
 **Research Assistant** \| Department of Methodology and Statistics \| *Sept 2023 - June 2024* \| Utrecht University
 
-Explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. 
+• Explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. 
 
 **Teaching Assistant** \| Department of Methodology and Statistics \| *Aug 2023* \| Utrecht University
 
-Helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
+• Helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
 
 **Research Assistant** \| Department of Politics and Governance \| *Feb 2022 - Sept 2022* \| Higher School of Economics
 
-Contributed to a research project examining the impact of COVID-19 on political bargaining processes. Responsibilities included advanced data wrangling, cleaning, and integration of multiple datasets; conducting quantitative analysis using R and Python.
+• Contributed to a research project examining the impact of COVID-19 on political bargaining processes. Responsibilities included advanced data wrangling, cleaning, and integration of multiple datasets; conducting quantitative analysis using R and Python.
 
 **Trainee Researcher** \| Ronald F. Inglehart Laboratory for Comparative Social Research \| *Feb 2021 - Feb 2022* \| Higher School of Economics
 
-Sourced and curated relevant quantitative indicators, performed extensive data wrangling and preprocessing. Conducted statistical analysis and structural equation modeling (SEM) to replicate and validate Uslaner's "Inequality Trap" study. 
+• Sourced and curated relevant quantitative indicators, performed extensive data wrangling and preprocessing. Conducted statistical analysis and structural equation modeling (SEM) to replicate and validate Uslaner's "Inequality Trap" study. 
 
 **Junior Analyst** \| Holding "Minchenko Consulting" \| *Jul 2020 - Feb 2022* \| Analytic Department
 
-Conducted comprehensive analysis of media representation of spouses of Russian high-ranking officials across social and traditional media platforms. Developed typologies of self-representation strategies grounded in qualitative and quantitative data.
+• Conducted comprehensive analysis of media representation of spouses of Russian high-ranking officials across social and traditional media platforms. Developed typologies of self-representation strategies grounded in qualitative and quantitative data.
 
 **Teaching Assistant** \| Department of Higher Mathematics \| *Oct 2020 - Jun 2021* \| Higher School of Economics
 
-Checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.
+• Checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.
 
 **Teaching Assistant** \| Department of Politics and Governance \| *Oct 2020 - Jun 2021* \| Higher School of Economics
 
-Provided consultations on subjects within the domains of political theory and political philosophy.
+• Provided consultations on subjects within the domains of political theory and political philosophy.
 
 ## Publications
 
-Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.
+• Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.
 
-Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). The rise of tech illiberalism in Russia: E-voting and new dimensions of securitization. Journal of Illiberalism Studies, 4(3), 51–71. 
+• Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). The rise of tech illiberalism in Russia: E-voting and new dimensions of securitization. Journal of Illiberalism Studies, 4(3), 51–71. 
 
-Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the Opposition under Electoral Authoritarianism: The Case of the Russian Regional Parliamentary Elections in 2021. Russian Politics, 8(4), 519-549.
+• Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the Opposition under Electoral Authoritarianism: The Case of the Russian Regional Parliamentary Elections in 2021. Russian Politics, 8(4), 519-549.
 
-Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-Representation Strategies: Celebrities or Housewives? Monitoring of Public Opinion: Economic and Social Changes, (5), 138--162. (In Russ.)
+• Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-Representation Strategies: Celebrities or Housewives? Monitoring of Public Opinion: Economic and Social Changes, (5), 138--162. (In Russ.)
 
 ## Conferences
 
-**ODISSEI Conference for Computational Social Science** \| Presenter \| *2024* \| Utrecht, Netherlands
+• **ODISSEI Conference for Computational Social Science** \| Presenter \| *2024* \| Utrecht, Netherlands
 
-**2nd Conference "New Advances in the Political Economy of Development in Eurasia"** \| Presenter \| *2024* \| Almaty, Kazakhstan
+• **2nd Conference "New Advances in the Political Economy of Development in Eurasia"** \| Presenter \| *2024* \| Almaty, Kazakhstan
 
 ## Skills
 
@@ -134,4 +136,3 @@ Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-
 • Top-2 student rating of the Political Science programme, twice \| *2018-2019*
 
 • Personal scholarship of the Moscow Government \| *2018-2019*
-:::

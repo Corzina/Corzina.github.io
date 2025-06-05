@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: morph
     css: styles.css
     toc: true
 
