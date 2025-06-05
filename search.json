@@ -37,49 +37,49 @@
   {
     "objectID": "CV.html",
     "href": "CV.html",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "",
     "text": "UTRECHT UNIVERSITY, UTRECHT | MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | Track: Applied Data Science | 2022-2024\n• Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.\nHIGHER SCHOOL OF ECONOMICS, MOSCOW | BSc in Political Science | Track: Political Analysis | 2018-2022\n• Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.\nVCIOM SOCIOLOGIC SCHOOL, MOSCOW | Winter School | Track: Policy and Market Analysis | 2022\n• Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.\nDULWICH COLLEGE, LONDON | Summer School | Track: Global Young Leaders | 2017\n• Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills."
   },
   {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "",
     "text": "UTRECHT UNIVERSITY, UTRECHT | MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences | Track: Applied Data Science | 2022-2024\n• Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.\nHIGHER SCHOOL OF ECONOMICS, MOSCOW | BSc in Political Science | Track: Political Analysis | 2018-2022\n• Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.\nVCIOM SOCIOLOGIC SCHOOL, MOSCOW | Winter School | Track: Policy and Market Analysis | 2022\n• Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.\nDULWICH COLLEGE, LONDON | Summer School | Track: Global Young Leaders | 2017\n• Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills."
   },
   {
     "objectID": "CV.html#experience",
     "href": "CV.html#experience",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "Experience",
     "text": "Experience\nBusiness Analyst | Data Analytics Department | Dec 2024 - Ongoing | BartsParts B.V.\n• As a Business Analyst, I spearhead the design and implementation of data-driven solutions to advance key business objectives. Leveraging Microsoft Fabric, Azure, and Power BI, I architect scalable data pipelines and integrate information from diverse sources, facilitating a single source of truth for critical decision-making. My role includes building near real-time dashboards tailored for multiple departments, driving strategic insights, and leading initiatives to identify and address data gaps. I collaborate closely with cross-functional stakeholders to optimize data workflows and embed analytics into daily operations for measurable efficiency gains.\nJunior Business Analyst | Data Analytics Department | June 2024 - Dec 2024 | BartsParts B.V.\n• Focused on unifying data infrastructure by consolidating disparate databases using SQL, sparkR, PySpark, and DAX. I was responsible for developing automated dashboards in Microsoft Fabric, which improved business reporting speed and reliability. My efforts contributed to empowering business units with up-to-date, actionable insights and set the foundation for scaling analytics across the organization.\nResearch Assistant | Department of Methodology and Statistics | Sept 2023 - June 2024 | Utrecht University\n• Explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study.\nTeaching Assistant | Department of Methodology and Statistics | Aug 2023 | Utrecht University\n• Helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.\nResearch Assistant | Department of Politics and Governance | Feb 2022 - Sept 2022 | Higher School of Economics\n• Contributed to a research project examining the impact of COVID-19 on political bargaining processes. Responsibilities included advanced data wrangling, cleaning, and integration of multiple datasets; conducting quantitative analysis using R and Python.\nTrainee Researcher | Ronald F. Inglehart Laboratory for Comparative Social Research | Feb 2021 - Feb 2022 | Higher School of Economics\n• Sourced and curated relevant quantitative indicators, performed extensive data wrangling and preprocessing. Conducted statistical analysis and structural equation modeling (SEM) to replicate and validate Uslaner’s “Inequality Trap” study.\nJunior Analyst | Holding “Minchenko Consulting” | Jul 2020 - Feb 2022 | Analytic Department\n• Conducted comprehensive analysis of media representation of spouses of Russian high-ranking officials across social and traditional media platforms. Developed typologies of self-representation strategies grounded in qualitative and quantitative data.\nTeaching Assistant | Department of Higher Mathematics | Oct 2020 - Jun 2021 | Higher School of Economics\n• Checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.\nTeaching Assistant | Department of Politics and Governance | Oct 2020 - Jun 2021 | Higher School of Economics\n• Provided consultations on subjects within the domains of political theory and political philosophy."
   },
   {
     "objectID": "CV.html#publications",
     "href": "CV.html#publications",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "Publications",
     "text": "Publications\n• Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.\n• Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). The rise of tech illiberalism in Russia: E-voting and new dimensions of securitization. Journal of Illiberalism Studies, 4(3), 51–71.\n• Romanov, D., Fominykh, I., & Ankudinov, I. (2023). Substituting the Opposition under Electoral Authoritarianism: The Case of the Russian Regional Parliamentary Elections in 2021. Russian Politics, 8(4), 519-549.\n• Fominykh I. G., Petrov K. Y. (2021) Spouses of Russian Governors and Their Self-Representation Strategies: Celebrities or Housewives? Monitoring of Public Opinion: Economic and Social Changes, (5), 138–162. (In Russ.)"
   },
   {
     "objectID": "CV.html#conferences",
     "href": "CV.html#conferences",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "Conferences",
     "text": "Conferences\n• ODISSEI Conference for Computational Social Science | Presenter | 2024 | Utrecht, Netherlands\n• 2nd Conference “New Advances in the Political Economy of Development in Eurasia” | Presenter | 2024 | Almaty, Kazakhstan"
   },
   {
     "objectID": "CV.html#skills",
     "href": "CV.html#skills",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "Skills",
-    "text": "Skills\nStatistical & Data Analysis\n• R/sparkR (tidyverse, brms, lavaan, semTools, mice, ggplot2, Shiny)\n• Python/Pyspark (pandas, numpy, matplotlib, scikit-learn)\n• SQL (MySQL, SQLite)\n• DAX, PowerQuery, Git, SPSS, Mplus\nData Visualization & BI Tools\n• Power BI\n• Microsoft Fabric\n• Python/R visualizations\nCloud & Workflow Tools\n• Microsoft Azure (Data Lake, Data Engineering, Data Factory)\n• LaTeX (Overleaf)\n• Microsoft Office (Word, Excel, PowerPoint)"
+    "text": "Skills\nStatistical & Data Analysis\n• R/sparkR (tidyverse, data.table, dplyr, brms, lavaan, semTools, mice, ggplot2, Shiny, caret, randomForest, lubridate, readr)\n• Python/Pyspark (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, pyspark.sql, xgboost, tensorflow)\n• SQL (MySQL, SQLite)\n• DAX, PowerQuery, Git, SPSS, Mplus\nData Visualization & BI Tools\n• Power BI\n• Python/R visualizations\nCloud & Workflow Tools\n• Microsoft Fabric (including Azure Data Lake, Azure Data Engineering, Azure Data Factory)\n• LaTeX (Overleaf)\n• Microsoft Office (Word, Excel, PowerPoint)"
   },
   {
     "objectID": "CV.html#achievements",
     "href": "CV.html#achievements",
-    "title": "About cooperation",
+    "title": "CV",
     "section": "Achievements",
     "text": "Achievements\n• Utrecht Excellence Scholarship recipient | 2022-2024\n• Student’s olympiad “Higher League” winner - “Politics, Economics,Philosophy” track | 2021\n• Top-2 student rating of the Political Science programme, twice | 2018-2019\n• Personal scholarship of the Moscow Government | 2018-2019"
   }
