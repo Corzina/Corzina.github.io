@@ -1,5 +1,5 @@
 ---
-title: "About cooperation"
+title: "CV"
 ---
 
 ## Education
@@ -78,9 +78,9 @@ title: "About cooperation"
 
 **Statistical & Data Analysis**
 
-• R/sparkR (tidyverse, brms, lavaan, semTools, mice, ggplot2, Shiny)
+• R/sparkR (tidyverse, data.table, dplyr, brms, lavaan, semTools, mice, ggplot2, Shiny, caret, randomForest, lubridate, readr)
 
-• Python/Pyspark (pandas, numpy, matplotlib, scikit-learn)
+• Python/Pyspark (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, pyspark.sql, xgboost, tensorflow)
 
 • SQL (MySQL, SQLite)
 
@@ -90,13 +90,11 @@ title: "About cooperation"
 
 • Power BI 
 
-• Microsoft Fabric 
-
 • Python/R visualizations
 
 **Cloud & Workflow Tools**
 
-• Microsoft Azure (Data Lake, Data Engineering, Data Factory)
+• Microsoft Fabric (including Azure Data Lake, Azure Data Engineering, Azure Data Factory)
 
 • LaTeX (Overleaf)
 
