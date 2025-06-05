@@ -41,17 +41,17 @@ Focused on advanced survey design and data collection methodologies, with practi
 
 **DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
 
-Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytical and leadership skills.
+Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills.
 
 ## Experience
 
 **Business Analyst** \| Data Analytics Department \| *Dec 2024 - Ongoing* \| BartsParts B.V.
 
-I lead the end-to-end development of automated, data-driven solutions using Microsoft Fabric, Azure, and Power BI. My responsibilities include integrating and transforming data from multiple sources, designing scalable pipelines, and delivering near real-time dashboards that support strategic decision-making across departments. I collaborate with cross-functional teams to identify data gaps and enhance operational efficiency.
+As a Business Analyst, I spearhead the design and implementation of data-driven solutions to advance key business objectives. Leveraging Microsoft Fabric, Azure, and Power BI, I architect scalable data pipelines and integrate information from diverse sources, facilitating a single source of truth for critical decision-making. My role includes building near real-time dashboards tailored for multiple departments, driving strategic insights, and leading initiatives to identify and address data gaps. I collaborate closely with cross-functional stakeholders to optimize data workflows and embed analytics into daily operations for measurable efficiency gains.
 
 **Junior Business Analyst** \| Data Analytics Department \| *June 2024 - Dec 2024* \| BartsParts B.V.
 
-Developed automated dashboards and pricing policy reports within the Microsoft Fabric environment. Unified disparate databases using SQL, sparkR, PySpark, and DAX, enabling real-time analytics for business operations and reporting.
+Focused on unifying data infrastructure by consolidating disparate databases using SQL, sparkR, PySpark, and DAX. I was responsible for developing automated dashboards in Microsoft Fabric, which improved business reporting speed and reliability. My efforts contributed to empowering business units with up-to-date, actionable insights and set the foundation for scaling analytics across the organization.
 
 **Research Assistant** \| Department of Methodology and Statistics \| *Sept 2023 - June 2024* \| Utrecht University
 
