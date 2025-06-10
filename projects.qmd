@@ -10,7 +10,7 @@ Contributed to a comparative study of R packages for Bayesian exploratory factor
 
 **COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project* | 2023-2024
 
-Investigated integration of digital trace and survey data, specifically addressing bias from selective participation. Explored sources of bias and analyzed data enrichment techniques that allow to enhance accuracy and inclusiveness of demographic groups typically underrepresented in survey research. More about the findings is available [here](https://odissei-data.nl/event/odissei-conference-2024/).
+Investigated the integration of digital trace and survey data, specifically addressing bias from selective participation. Explored sources of bias and analyzed data enrichment techniques to enhance the accuracy and inclusiveness of demographic groups typically underrepresented in survey research. More about the findings is available [here](https://odissei-data.nl/event/odissei-conference-2024/).
 
 ## Political Science
 
@@ -18,7 +18,7 @@ Investigated integration of digital trace and survey data, specifically addressi
 
 This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, We examine how exposure to soft propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533).
 
-**TECHNOLOGICAL ILLIBERALISM: ELECTORAL CONSEQUENCES** |  *Research Project * | 2023 - 2024
+**THE RISE OF TECH ILLIBERALISM IN RUSSIA: E-VOTING AND NEW DIMENSIONS OF SECURITIZATION** |  *Research Project * | 2023 - 2024
 
 Analyzed how digital infrastructure and emergency-era policies affect electoral outcomes in authoritarian contexts, using data on online voting in Russia. Co-authored a working paper on youth political attitudes and state-led digital securitization, available [here](https://www.illiberalism.org/the-rise-of-tech-illiberalism-in-russia-e-voting-and-new-dimensions-of-securitization/).
 
@@ -26,10 +26,10 @@ Analyzed how digital infrastructure and emergency-era policies affect electoral 
 
 Replicated Uslaner’s findings on the links between inequality, corruption, and generalized trust using recent waves of the World Values Survey and European Social Survey. Results matched the original study. Project results are available [here](https://www.hse.ru/ba/political/students/diplomas/620109658).
 
-**STRATEGIES OF PARLIAMENTARY PARTIES** |  *Study Project * | 2021 - 2022
+**ELECTORAL STRATEGIES OF PARLIAMENTARY PARTIES IN AUTOCRATIC REGIMES** |  *Study Project * | 2021 - 2022
 
-I analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal, available [here](https://brill.com/view/journals/rupo/8/4/article-p519_5.xml).
+Analyzed the recent trends in centralized autocratic party formation using data from the 2021 Russian elections. You can find the paper on this analysis in the *Russian Politics* journal, available [here](https://brill.com/view/journals/rupo/8/4/article-p519_5.xml).
 
-**COMPARATIVE ELECTORAL STUDIES** |  *Study Project * | 2019 - 2020
+**A COMPARATIVE REVIEW OF THE RECENT ELECTIONS** |  *Study Project * | 2019 - 2020
 
-I prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here](https://cfi.hse.ru/lrps/elb).
+Prepared and analysed electoral data on Switzerland and Ireland with R.F. Turovsky. Electoral ballots are published on the site of the *Laboratory for Regional Research *, available [here](https://cfi.hse.ru/lrps/elb).
