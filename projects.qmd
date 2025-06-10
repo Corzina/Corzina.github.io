@@ -10,11 +10,11 @@ Contributed to a comparative study of R packages for Bayesian exploratory factor
 
 **COMBINING DIGITAL TRACE DATA AND SURVEY DATA FOR PARTICIPATION PREDICTION** |  *Thesis Project* | 2023-2024
 
-Investigated integration of digital trace and survey data, specifically addressing bias from selective participation. Explored sources of bias and analyzed data enrichment techniques that allow to enhance accuracy and inclusiveness of demographic groups typically underrepresented in survey research.
+Investigated integration of digital trace and survey data, specifically addressing bias from selective participation. Explored sources of bias and analyzed data enrichment techniques that allow to enhance accuracy and inclusiveness of demographic groups typically underrepresented in survey research. More about the findings is available [here](https://odissei-data.nl/event/odissei-conference-2024/).
 
 ## Political Science
 
-**YOUTH INDOCTRINATION: WILL IT ACHIEVE LOYALTY OR HATRED?** |  *Research Project * | 2023 - ongoing
+**YOUTH INDOCTRINATION: WILL IT ACHIEVE LOYALTY OR HATRED?** |  *Research Project * | 2023 - 2025
 
 This project investigates the effects of state-driven propaganda in schools on youth political attitudes and values. Using a quasi-experimental design, We examine how exposure to soft propaganda influences political trust, civic engagement, and nationalist sentiments among adolescents. More can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264533).
 

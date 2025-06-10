@@ -5,7 +5,7 @@ about:
   template: jolla
   image: me.jpg
   links:
-    - icon: map-marker
+    - icon: map
       text: "Rotterdam, The Netherlands"
       href: "#"
     - icon: github
@@ -14,22 +14,22 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ilya-fominykh-3212632b1/
+    - icon: share
+      text: Orcid
+      href: https://orcid.org/0000-0002-5107-3571
     - icon: phone
       text: "+31687683618"
       href: "tel:+31687683618"
-    - icon: id-card
-      text: Orcid
-      href: https://orcid.org/0000-0002-5107-3571
 editor: 
   markdown: 
     wrap: 72
 ---
 
+::: {#hero-heading}
+
 <div style="text-align:center; font-size:1.25em; font-weight:400; margin-bottom:1em;">
   MS in Statistics and Methodology
 </div>
-
-::: {#hero-heading}
 
 Hello! I am a data analyst with 5+ years of experience in quantitative research and over a year in business analytics. My expertise includes working with complex sources—sales data, search data, digital traces, and surveys—to generate actionable business insights and help manage the operations. Advanced statistical modeling, survey methodology, and causal inference are among my key skills. Proficient in R, Python, SQL, and Microsoft Fabric, I design and develop near-real-time dashboards, transforming raw data into clear, stakeholder-ready reports. I am committed to connecting data and business strategy to drive commercial success.
 

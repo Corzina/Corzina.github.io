@@ -1,96 +1,136 @@
 ---
 title: "CV"
+format:
+  html:
+    css: styles.css
 ---
 
 ## Skills
 
-**Analytical & Statistical Methods**
+**Analytic & Statistical Methods**
 
-• Statistical Inference
+<ul style="margin-top:0em; margin-bottom:0em;">
+  <li style="margin-bottom:0.15em;">Statistical Inference</li>
+  <li style="margin-bottom:0.15em;">Regression Analysis</li>
+  <li style="margin-bottom:0.15em;">Machine Learning</li>
+  <li style="margin-bottom:0.15em;">Natural Language Processing (NLP)</li>
+  <li style="margin-bottom:0.15em;">Experimental and Quasi-experimental Designs</li>
+  <li style="margin-bottom:0.15em;">Survey Design</li>
+</ul>
 
-• Regression Analysis
-
-• Machine Learning
-
-• NLP (Natural Language Processing)
-
-• Experimental/Quasi-experimental Designs
-
-• Survey Designs
+<div style="height:0.7em;"></div>
 
 **Programming**
 
-• R (tidyverse, data.table, dplyr, brms, lavaan, semTools, mice, ggplot2, Shiny, caret, randomForest, lubridate, readr)
+<ul style="margin-top:0em; margin-bottom:0em;">
+  <li style="margin-bottom:0.15em;">R (tidyverse, data.table, dplyr, brms, lavaan, semTools, mice, ggplot2, Shiny, caret, randomForest, lubridate, readr)</li>
+  <li style="margin-bottom:0.15em;">Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, pyspark.sql, xgboost, tensorflow)</li>
+  <li style="margin-bottom:0.15em;">SQL (MySQL)</li>
+  <li style="margin-bottom:0.15em;">HTML</li>
+</ul>
 
-• Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, pyspark.sql, xgboost, tensorflow)
-
-• SQL (MySQL)
+<div style="height:0.7em;"></div>
 
 **Business Intelligence & Visualization**
 
-• Power BI 
+<ul style="margin-top:0em; margin-bottom:0em;">
+  <li style="margin-bottom:0.15em;">Power BI</li>
+  <li style="margin-bottom:0.15em;">Custom Python & R visualizations</li>
+  <li style="margin-bottom:0.15em;">DAX, Power Query</li>
+</ul>
 
-• Custom Python & R visualizations
-
-• DAX, Power Query
+<div style="height:0.7em;"></div>
 
 **Cloud & Workflow Tools**
 
-• Microsoft Fabric (Azure Data Lake, Engineering, Data Factory)
-
-• Microsoft Office (Excel – advanced, Word, PowerPoint)
-
-• Git (Github)
-
-• Jira, Asana, Confluence
-
-• LaTeX (Overleaf)
-
-• SPSS, Mplus
+<ul style="margin-top:0em; margin-bottom:0em;">
+  <li style="margin-bottom:0.15em;">Microsoft Fabric (Azure Data Lake, Engineering, Data Factory)</li>
+  <li style="margin-bottom:0.15em;">Microsoft Office (Excel – advanced, Word, PowerPoint)</li>
+  <li style="margin-bottom:0.15em;">Git (GitHub)</li>
+  <li style="margin-bottom:0.15em;">Jira, Asana, Confluence</li>
+  <li style="margin-bottom:0.15em;">LaTeX (Overleaf)</li>
+  <li style="margin-bottom:0.15em;">SPSS, Mplus</li>
+</ul>
 
 ## Experience
 
 **Business Analyst** \| Data Analytics Department \| *Dec 2024 - Ongoing* \| BartsParts B.V.
 
-• As a Business Analyst, I spearhead the design and implementation of data-driven solutions to advance key business objectives. Leveraging Microsoft Fabric, Azure, and Power BI, I architect scalable data pipelines and integrate information from diverse sources, facilitating a single source of truth for critical decision-making. My role includes building near real-time dashboards tailored for multiple departments, driving strategic insights, and leading initiatives to identify and address data gaps. I collaborate closely with cross-functional stakeholders to optimize data workflows and embed analytics into daily operations for measurable efficiency gains.
+I lead the design and rollout of data-driven solutions supporting key business objectives in the e-commerce sector. My work centers on transforming complex data flows into dashboards and actionable insights.
+
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;"> Designed and implemented scalable data pipelines using Microsoft Fabric and Azure, integrating raw data from sales, logistics, customer support, and IT networks.</li> 
+  <li style="margin-bottom:0.15em;"> Built and deployed near-real-time Power BI dashboards tailored for Sales, Supply Chain, and Management teams, boosting data visibility and decision speed.</li> 
+  <li style="margin-bottom:0.15em;">Identified, analyzed, and resolved critical data gaps to improve data quality and reporting accuracy across the organization.</li> 
+  <li style="margin-bottom:0.15em;">Collaborated cross-functionally to automate data workflows and embed analytics in daily operations, delivering measurable efficiency improvements.</li> 
+</ul>
+
+<div style="height:0.7em;"></div>
 
 **Junior Business Analyst** \| Data Analytics Department \| *June 2024 - Dec 2024* \| BartsParts B.V.
 
-• Focused on unifying data infrastructure by consolidating disparate databases using SQL, sparkR, PySpark, and DAX. I was responsible for developing automated dashboards in Microsoft Fabric, which improved business reporting speed and reliability. My efforts contributed to empowering business units with up-to-date, actionable insights and set the foundation for scaling analytics across the organization.
+I supported the unification of company data infrastructure and laid the groundwork for business analytics initiatives. My main responsibilities included connecting diverse data sources, preprocessing datasets, and developing custom visualizations.
 
-**Research Assistant** \| Department of Methodology and Statistics \| *Sept 2023 - June 2024* \| Utrecht University
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;">Connected and consolidated data from multiple systems using SQL, SparkR, and PySpark preparing data for unified analysis.</li> 
+  <li style="margin-bottom:0.15em;">Created custom data visualizations in R to address specific business needs and improve reporting clarity.</li> 
+  <li style="margin-bottom:0.15em;">Collaborated with analysts and department leaders to understand reporting requirements and deliver timely, actionable insights.</li> 
+</ul>
+  
+<div style="height:0.7em;"></div>
 
-• Explored packages for Bayesian exploratory factor analysis currently available in R and prepared a framework for a simulation study. 
+**Research & Teaching Assistant** \| Department of Methodology and Statistics \| *Aug 2023 - June 2024* \| Utrecht University
 
-**Teaching Assistant** \| Department of Methodology and Statistics \| *Aug 2023* \| Utrecht University
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;">Explored packages for Bayesian exploratory factor analysis (EFA) currently available in R and prepared a framework for a simulation study.</li> 
+  <li style="margin-bottom:0.15em;">Assisted students to understand foundations of survey-based research & master R usage for survey data analysis.</li> 
+</ul>
 
-• Helped summer school students to understand foundations of survey-based research & master basic R usage for survey data analysis.
+<div style="height:0.7em;"></div>
 
 **Research Assistant** \| Department of Politics and Governance \| *Feb 2022 - Sept 2022* \| Higher School of Economics
 
-• Contributed to a research project examining the impact of COVID-19 on political bargaining processes. Responsibilities included advanced data wrangling, cleaning, and integration of multiple datasets; conducting quantitative analysis using R and Python.
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;">Integrated, cleaned, and managed multiple large datasets using R and Python to support quantitative research on COVID-19’s impact. </li> 
+  <li style="margin-bottom:0.15em;">Contributed to data preparation, literature review, and the quantitative analysis of policy outcomes. </li> 
+  <li style="margin-bottom:0.15em;">Applied statistical analysis to identify patterns and prepared reports for a cross-disciplinary research team. </li> 
+</ul>
+
+
+<div style="height:0.7em;"></div>
 
 **Trainee Researcher** \| Ronald F. Inglehart Laboratory for Comparative Social Research \| *Feb 2021 - Feb 2022* \| Higher School of Economics
 
-• Sourced and curated relevant quantitative indicators, performed extensive data wrangling and preprocessing. Conducted statistical analysis and structural equation modeling (SEM) to replicate and validate Uslaner's "Inequality Trap" study. 
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;">Sourced, cleaned, and managed complex quantitative datasets for large-scale comparative studies, ensuring data quality and consistency. </li> 
+  <li style="margin-bottom:0.15em;">Performed statistical analysis and built structural equation models (SEM) in R to validate research hypotheses and support data-driven recommendations. </li> 
+</ul>
 
-**Junior Analyst** \| Holding "Minchenko Consulting" \| *Jul 2020 - Feb 2022* \| Analytic Department
+<div style="height:0.7em;"></div>
 
-• Conducted comprehensive analysis of media representation of spouses of Russian high-ranking officials across social and traditional media platforms. Developed typologies of self-representation strategies grounded in qualitative and quantitative data.
+**Junior Analyst** \| Holding "Minchenko Consulting" \| *Jul 2020 - Feb 2022* 
 
-**Teaching Assistant** \| Department of Higher Mathematics \| *Oct 2020 - Jun 2021* \| Higher School of Economics
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;">Parsed and mined large volumes of data from social and traditional media platforms & search engines to extract trends in public representation. </li> 
+  <li style="margin-bottom:0.15em;">Transformed unstructured text data into clear metrics and developed typologies using both qualitative and quantitative methods. </li> 
+  <li style="margin-bottom:0.15em;">Co-authored and published a research paper based on this project in a Q1-ranked academic journal.</li> </ul> <div style="height:0.7em;"></div>
+</ul>
 
-• Checked the control papers of first-year students, conducted consultations on basic R, LaTeX and probability theory topics.
+<div style="height:0.7em;"></div>
 
-**Teaching Assistant** \| Department of Politics and Governance \| *Oct 2020 - Jun 2021* \| Higher School of Economics
+**Teaching Assistant** \| Higher School of Economics \| *Oct 2020 - Jun 2021*
 
-• Provided consultations on subjects within the domains of political theory and political philosophy.
+<ul style="margin-top:0em; margin-bottom:0em;"> 
+  <li style="margin-bottom:0.15em;">Assisted first and second-year students with R, LaTeX, and probability theory. </li> 
+  <li style="margin-bottom:0.15em;">Reviewed assignments and provided individual consultations to support course objectives in mathematics and politics.</li> 
+</ul>
+
 
 ## Education
 
 **UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-2024
 
-• Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
+• Focused on machine learning, NLP, clustering, and survey data analysis. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
 
 **HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science \| *Track: Political Analysis* \| 2018-2022
 
@@ -108,7 +148,7 @@ title: "CV"
 
 • Utrecht Excellence Scholarship recipient \| *2022-2024*
 
-• Olympiad "Higher League" winner - "Politics, Economics,Philosophy" track \| *2021*
+• Olympiad "Higher League" winner - "Politics, Economics, Philosophy" track \| *2021*
 
 • Top-2 student rating of the Political Science programme, twice \| *2018-2019*
 
