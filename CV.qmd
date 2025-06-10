@@ -2,23 +2,51 @@
 title: "CV"
 ---
 
-## Education
+## Skills
 
-**UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-2024
+**Analytical & Statistical Methods**
 
-• Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
+• Statistical Inference
 
-**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science \| *Track: Political Analysis* \| 2018-2022
+• Regression Analysis
 
-• Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.
+• Machine Learning
 
-**VCIOM SOCIOLOGIC SCHOOL, MOSCOW** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
+• NLP (Natural Language Processing)
 
-• Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.
+• Experimental/Quasi-experimental Designs
 
-**DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
+• Survey Designs
 
-• Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills.
+**Programming**
+
+• R (tidyverse, data.table, dplyr, brms, lavaan, semTools, mice, ggplot2, Shiny, caret, randomForest, lubridate, readr)
+
+• Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, pyspark.sql, xgboost, tensorflow)
+
+• SQL (MySQL)
+
+**Business Intelligence & Visualization**
+
+• Power BI 
+
+• Custom Python & R visualizations
+
+• DAX, Power Query
+
+**Cloud & Workflow Tools**
+
+• Microsoft Fabric (Azure Data Lake, Engineering, Data Factory)
+
+• Microsoft Office (Excel – advanced, Word, PowerPoint)
+
+• Git (Github)
+
+• Jira, Asana, Confluence
+
+• LaTeX (Overleaf)
+
+• SPSS, Mplus
 
 ## Experience
 
@@ -58,9 +86,37 @@ title: "CV"
 
 • Provided consultations on subjects within the domains of political theory and political philosophy.
 
+## Education
+
+**UTRECHT UNIVERSITY, UTRECHT** \| MSc in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences \| *Track: Applied Data Science* \| 2022-2024
+
+• Focused on clustering, machine learning, and analysis of both high- and low-dimensional data. Thesis examined error sources in survey data linked to donated digital trace data, developing methods to reduce bias from selective participation.
+
+**HIGHER SCHOOL OF ECONOMICS, MOSCOW** \| BSc in Political Science \| *Track: Political Analysis* \| 2018-2022
+
+• Graduated with honors (GPA: 8.9). Specialized in quantitative methods, including multilevel modeling, time-series analysis, and structural equation modeling.
+
+**VCIOM SOCIOLOGIC SCHOOL, MOSCOW** \| Winter School \| *Track: Policy and Market Analysis* \| 2022
+
+• Focused on advanced survey design and data collection methodologies, with practical applications to policy evaluation and market research.
+
+**DULWICH COLLEGE, LONDON** \| Summer School \| *Track: Global Young Leaders* \| 2017
+
+• Graduated with honors (A). Engaged in interdisciplinary study of international relations, communication, and economics, developing strong analytic and leadership skills.
+
+## Achievements
+
+• Utrecht Excellence Scholarship recipient \| *2022-2024*
+
+• Olympiad "Higher League" winner - "Politics, Economics,Philosophy" track \| *2021*
+
+• Top-2 student rating of the Political Science programme, twice \| *2018-2019*
+
+• Personal scholarship of the Moscow Government \| *2018-2019*
+
 ## Publications
 
-• Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination in Russia: Will it achieve loyalty or hatred? Available at SSRN 5264533.
+• Kozlov, V., Romanov, D., Balalaeva, D., & Fominykh, I. (2025). Youth indoctrination in Russia: Will it achieve loyalty or hatred? An Analysis using Quasi-Causal Design. Available at SSRN 5264533.
 
 • Petrov, K., Fominykh, I., Bakshuk, M., Ahalian, A., & Krasnikov, A. (2024). The rise of tech illiberalism in Russia: E-voting and new dimensions of securitization. Journal of Illiberalism Studies, 4(3), 51–71. 
 
@@ -73,39 +129,3 @@ title: "CV"
 • **ODISSEI Conference for Computational Social Science** \| Presenter \| *2024* \| Utrecht, Netherlands
 
 • **2nd Conference "New Advances in the Political Economy of Development in Eurasia"** \| Presenter \| *2024* \| Almaty, Kazakhstan
-
-## Skills
-
-**Statistical & Data Analysis**
-
-• R/sparkR (tidyverse, data.table, dplyr, brms, lavaan, semTools, mice, ggplot2, Shiny, caret, randomForest, lubridate, readr)
-
-• Python/Pyspark (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, statsmodels, plotly, pyspark.sql, xgboost, tensorflow)
-
-• SQL (MySQL, SQLite)
-
-• DAX, PowerQuery, Git, SPSS, Mplus
-
-**Data Visualization & BI Tools**
-
-• Power BI 
-
-• Python/R visualizations
-
-**Cloud & Workflow Tools**
-
-• Microsoft Fabric (including Azure Data Lake, Azure Data Engineering, Azure Data Factory)
-
-• LaTeX (Overleaf)
-
-• Microsoft Office (Word, Excel, PowerPoint)
-
-## Achievements
-
-• Utrecht Excellence Scholarship recipient \| *2022-2024*
-
-• Student's olympiad "Higher League" winner - "Politics, Economics,Philosophy" track \| *2021*
-
-• Top-2 student rating of the Political Science programme, twice \| *2018-2019*
-
-• Personal scholarship of the Moscow Government \| *2018-2019*

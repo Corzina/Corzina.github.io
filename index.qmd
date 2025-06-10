@@ -5,13 +5,19 @@ about:
   template: jolla
   image: me.jpg
   links:
+    - icon: map-marker
+      text: "Rotterdam, The Netherlands"
+      href: "#"
     - icon: github
       text: Github
       href: https://github.com/Corzina
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ilya-fominykh-3212632b1/
-    - icon: share
+    - icon: phone
+      text: "+31687683618"
+      href: "tel:+31687683618"
+    - icon: id-card
       text: Orcid
       href: https://orcid.org/0000-0002-5107-3571
 editor: 
@@ -19,11 +25,15 @@ editor:
     wrap: 72
 ---
 
+<div style="text-align:center; font-size:1.25em; font-weight:400; margin-bottom:1em;">
+  MS in Statistics and Methodology
+</div>
+
 ::: {#hero-heading}
 
-Greetings! I'm Ilya Fominykh, a researcher specializing in statistics and quantitative methods for the social sciences. My work focuses on survey data analysis, digital trace data, and quasi-experimental designs. I am particularly interested in electoral behavior, value change, and other topics at the intersection of individual dynamics and societal trends.
+Hello! I am a data analyst with 5+ years of experience in quantitative research and over a year in business analytics. My expertise includes working with complex sources—sales data, search data, digital traces, and surveys—to generate actionable business insights and help manage the operations. Advanced statistical modeling, survey methodology, and causal inference are among my key skills. Proficient in R, Python, SQL, and Microsoft Fabric, I design and develop near-real-time dashboards, transforming raw data into clear, stakeholder-ready reports. I am committed to connecting data and business strategy to drive commercial success.
 
-Welcome to my portfolio, where you can explore my academic and applied research in data-driven social science.
+Welcome to my portfolio, where you can explore my applied and academic research.
 
 :::
 
