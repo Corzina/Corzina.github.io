@@ -12,10 +12,10 @@ format:
 <ul style="margin-top:0em; margin-bottom:0em;">
   <li style="margin-bottom:0.15em;">Statistical Inference</li>
   <li style="margin-bottom:0.15em;">Regression Analysis</li>
-  <li style="margin-bottom:0.15em;">Machine Learning</li>
+  <li style="margin-bottom:0.15em;">Data Mining & Data Scraping</li>
   <li style="margin-bottom:0.15em;">Natural Language Processing (NLP)</li>
   <li style="margin-bottom:0.15em;">Experimental and Quasi-experimental Designs</li>
-  <li style="margin-bottom:0.15em;">Survey Design</li>
+  <li style="margin-bottom:0.15em;">Survey Designs</li>
 </ul>
 
 <div style="height:0.7em;"></div>

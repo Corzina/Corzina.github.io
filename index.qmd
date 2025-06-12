@@ -31,7 +31,7 @@ editor:
   MS in Statistics and Methodology
 </div>
 
-Hello! I am a data analyst with 5+ years of experience in quantitative research and over a year in business analytics. My expertise includes working with complex sources—sales data, search data, digital traces, and surveys—to generate actionable business insights and help manage the operations. Advanced statistical modeling, survey methodology, and causal inference are among my key skills. Proficient in R, Python, SQL, and Microsoft Fabric, I design and develop near-real-time dashboards, transforming raw data into clear, stakeholder-ready reports. I am committed to connecting data and business strategy to drive commercial success.
+Hello! I am a data analyst with 5+ years of experience in quantitative research and over a year in business analytics. My expertise includes working with complex sources—sales data, search data, digital traces, and surveys—to generate actionable business insights and help manage the operations. Advanced statistical modeling, data aggregation, and survey methodology are among my key skills. Proficient in R, Python, SQL, and Microsoft Fabric, I design and develop near-real-time dashboards, transforming raw data into clear, stakeholder-ready reports. I am committed to connecting data and business strategy to drive commercial success.
 
 Welcome to my portfolio, where you can explore my applied and academic research.
 
